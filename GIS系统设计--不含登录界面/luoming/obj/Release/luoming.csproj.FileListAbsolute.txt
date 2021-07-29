@@ -1,0 +1,17 @@
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\bin\Release\luoming.exe.config
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\bin\Release\luoming.exe
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\bin\Release\luoming.pdb
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\bin\Release\MySql.Data.dll
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.Login.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.Form1.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.AttributeTableFrm.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.CreateDatabase.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.frmResource.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.importdata.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.Properties.Resources.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.Register.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\_luoming.SymbolSelectorFrm.resources
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\luoming.csproj.GenerateResource.Cache
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\luoming.exe
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\luoming.pdb
+C:\Users\罗明\Desktop\罗明2020200033\GIS系统设计--不含登录界面\luoming\obj\Release\luoming.csprojResolveAssemblyReference.cache
